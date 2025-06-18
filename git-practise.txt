@@ -1,0 +1,5 @@
+This is a sample text file for Git practice.
+Random text for demonstration purposes.
+Learning Git commands and workflows.
+Making changes to track with version control.
+Adding, committing, and pushing changes.
