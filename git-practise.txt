@@ -3,3 +3,18 @@ Random text for demonstration purposes.
 Learning Git commands and workflows.
 Making changes to track with version control.
 Adding, committing, and pushing changes.
+Git is a distributed version control system.
+It helps track changes in source code during development.
+Created by Linus Torvalds in 2005.
+Git allows multiple developers to work together.
+Branches help isolate development work.
+Merging combines changes from different branches.
+Pull requests facilitate code review.
+Git repositories can be local or remote.
+GitHub, GitLab, and Bitbucket are popular Git hosting services.
+Commit messages should be clear and descriptive.
+Git stash saves changes temporarily.
+Rebasing reorganizes commit history.
+Git hooks automate actions during Git events.
+Tags mark specific points in Git history.
+Git blame shows who changed which line of code.
